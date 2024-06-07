@@ -1,7 +1,7 @@
 # Hello, world.
 ![image](https://science.nasa.gov/wp-content/uploads/2023/07/webb-flickr-52660766241-63ab077ba6-4k-slice.jpg?w=4096&format=jpeg)
 <p align="center">
-  By day: Back-end Developer<br>
+  By day: Software Developer<br>
   By night: AI/Robotics enthusiast<br>
   When no one's looking: Penetration Tester<br><br><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antigoni-K&theme=tokyonight"/><br><br><br><br>
