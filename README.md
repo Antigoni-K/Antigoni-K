@@ -1,4 +1,4 @@
-![Screenshot 2024-08-24 230609](https://github.com/user-attachments/assets/b75fa7b1-71e3-404c-8836-bc5400600f88)# Hello, world.
+# Hello, world.
 
 <p align="center">
   <img alt="Welcome." src=https://github.com/user-attachments/assets/5db59087-4418-4a45-b21b-a50680e90566><br>
