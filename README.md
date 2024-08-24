@@ -1,5 +1,5 @@
 # Hello, world.
-![image](https://science.nasa.gov/wp-content/uploads/2023/07/webb-flickr-52660766241-63ab077ba6-4k-slice.jpg?w=4096&format=jpeg)
+![image](https://i.pinimg.com/736x/89/47/97/894797fab212279db8d3163ac357e352.jpg)
 <p align="center">
   By day: Software Developer<br>
   By night: AI/Robotics enthusiast<br>
