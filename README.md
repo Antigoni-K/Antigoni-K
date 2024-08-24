@@ -1,6 +1,7 @@
 # Hello, world.
-![image](https://i.pinimg.com/736x/89/47/97/894797fab212279db8d3163ac357e352.jpg)
 <p align="center">
+![image](https://i.pinimg.com/736x/89/47/97/894797fab212279db8d3163ac357e352.jpg)
+
   By day: Software Developer<br>
   By night: AI/Robotics enthusiast<br>
   When no one's looking: Penetration Tester<br><br><br><br>
